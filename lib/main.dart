@@ -46,7 +46,7 @@ class HomePage extends StatelessWidget {
           price: 20.0,
           imageUrl: 'https://example.com/grilled_chicken.jpg'),
       Product(
-          name: 'فروج مقلي',
+          name: 'فروج مشوي',
           price: 15.0,
           imageUrl: 'https://example.com/fried_chicken.jpg')
     ],
